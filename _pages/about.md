@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.ubc.ca/'>The University of British Columbia</a>. <a href='https://www.iam.ubc.ca/'>Institute of Applied Mathematics</a>. thiagomsdcv@gmail.com
 
 profile:
   align: right
