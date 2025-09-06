@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Primal-Dual Interior Point Optimization
-description: Implemented Nonlinear Model Predictive Control with Box Constraints Using Julia
+description: Implemented nonlinear model predictive control with box constraints using Julia
 img: assets/img/primal_dual.png
 importance: 2
 category: work
