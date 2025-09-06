@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: projects
 permalink: /projects/
 description: On this page you can explore some of the projects I worked on during my masters degree. Enjoy!
 nav: true
