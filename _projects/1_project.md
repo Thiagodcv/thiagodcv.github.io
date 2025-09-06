@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LQR Missile Guidance
-description: Using finite-time LQR to control a nonlinear, time-varying system
+description: Using finite-time LQR to control a nonlinear, time-varying system in Python
 img: assets/img/SAM.jpg
 importance: 1
 category: work
