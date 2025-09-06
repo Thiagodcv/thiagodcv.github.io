@@ -407,9 +407,9 @@ ninja.data = [{
           description: "Using finite-time LQR to control a nonlinear, time-varying system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-primal-dual-interior-point-optimization",
+          title: 'Primal-Dual Interior Point Optimization',
+          description: "With Application to Model Predictive Control",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{
