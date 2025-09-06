@@ -5,10 +5,18 @@ description: Using finite-time LQR to control a nonlinear, time-varying system i
 img: assets/img/SAM.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
+This is the project I worked on for my control theory course MECH 509 at UBC. The details on the intuition and theory behind the project can be found in the PowerPoint below. The Git repository can be found [here](https://github.com/Thiagodcv/interior-point-optimal-control).
+
+
+<embed src="assets\pdf\SAM_Presentation.pdf" type="application/pdf" width="800px" height="450px" style="border: 1px solid #ccc;" />
+
+
+<!-- Leaving this code here for future reference instead of deleting it: -->
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +86,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
