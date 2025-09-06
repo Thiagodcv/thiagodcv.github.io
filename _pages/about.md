@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a MSc. Math student studying at the Institute of Applied Mathematics at UBC, and I am advised by Prof. Philip Loewen and Prof. Bhushan Gopaluni in the [Data Analytics and Intelligent Systems Lab](https://dais.chbe.ubc.ca/). My main interests of study are control, reinforcement learning, and optimization. 
+Hi there! I am a MSc Math student studying at the Institute of Applied Mathematics at UBC, and I am advised by Prof. Philip Loewen and Prof. Bhushan Gopaluni in the [Data Analytics and Intelligent Systems Lab](https://dais.chbe.ubc.ca/). My main interests of study are control, reinforcement learning, and optimization. 
