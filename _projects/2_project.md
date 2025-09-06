@@ -13,5 +13,5 @@ This is the project I worked on for my convex optimization course CPSC 536M taug
 <embed src="/assets/pdf/pdip.pdf" 
        type="application/pdf" 
        width="100%" 
-       height="800px"
+       height="600px"
        style="border: 1px solid #ccc;" />
