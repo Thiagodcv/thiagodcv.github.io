@@ -409,7 +409,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-primal-dual-interior-point-optimization",
           title: 'Primal-Dual Interior Point Optimization',
-          description: "Implemented nonlinear model predictive control with box constraints using Julia",
+          description: "Implementing nonlinear model predictive control with box constraints using Julia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{
