@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: 
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: On this page you can explore some of the projects I worked on during my masters degree. Enjoy!
 nav: true
 nav_order: 3
 display_categories: [work, fun]
