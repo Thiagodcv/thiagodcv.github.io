@@ -404,12 +404,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-lqr-missile-guidance",
           title: 'LQR Missile Guidance',
-          description: "Using finite-time LQR to control a nonlinear, time-varying system",
+          description: "Using finite-time LQR to control a nonlinear, time-varying system in Python",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-primal-dual-interior-point-optimization",
           title: 'Primal-Dual Interior Point Optimization',
-          description: "With Application to Model Predictive Control",
+          description: "Implemented Nonlinear Model Predictive Control with Box Constraints Using Julia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{
