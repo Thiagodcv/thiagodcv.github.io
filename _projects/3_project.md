@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Model-based Reinforcement Learning via Predictive Sampling 
-description: Learning a dynamics function for controlling a quadruped using PyTorch
-img: assets/img/ant_task.gif
+title: Predictive Sampling with Learned Dynamics
+description: Using a simple model-based reinforcement learning scheme to control a quadruped using PyTorch
+img: assets/img/ant_task_cropped.gif
 importance: 2
 category: work
 giscus_comments: false
