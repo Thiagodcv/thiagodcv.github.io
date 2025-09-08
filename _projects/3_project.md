@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Predictive Sampling with Learned Dynamics
-description: Using a simple model-based reinforcement learning scheme to control a quadruped using PyTorch
+title: Control via Learned Dynamics
+description: Using a simple model-based reinforcement learning scheme to control a quadruped with PyTorch
 img: assets/img/ant_task_cropped.gif
 importance: 2
 category: work
