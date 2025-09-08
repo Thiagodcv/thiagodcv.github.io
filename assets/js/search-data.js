@@ -417,6 +417,11 @@ ninja.data = [{
           description: "Using a simple model-based reinforcement learning scheme to control a quadruped with PyTorch",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
+            },},{id: "projects-optimal-projectile-interception",
+          title: 'Optimal Projectile Interception',
+          description: "Using the Bellman equation to solve a multi-period resource allocation problem",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project.html";
             },},{
         id: 'social-email',
         title: 'email',
