@@ -412,9 +412,9 @@ ninja.data = [{
           description: "Implementing nonlinear model predictive control with box constraints using Julia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-predictive-sampling-with-learned-dynamics",
-          title: 'Predictive Sampling with Learned Dynamics',
-          description: "Using a simple model-based reinforcement learning scheme to control a quadruped using PyTorch",
+            },},{id: "projects-control-via-learned-dynamics",
+          title: 'Control via Learned Dynamics',
+          description: "Using a simple model-based reinforcement learning scheme to control a quadruped with PyTorch",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},{
