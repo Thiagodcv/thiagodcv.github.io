@@ -2,7 +2,7 @@
 layout: page
 title: Optimal Projectile Interception
 description: Using the Bellman equation to solve a multi-period resource allocation problem
-img: assets/img/opt_proj.png
+img: assets/img/opt_proj.JPG
 importance: 2
 category: work
 giscus_comments: false
