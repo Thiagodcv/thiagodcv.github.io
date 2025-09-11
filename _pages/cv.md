@@ -2,6 +2,7 @@
 layout: page
 permalink: /resume/
 title: resume
+description: A summary of my education and work experience if you're interested :). 
 nav: true
 nav_order: 5
 ---
