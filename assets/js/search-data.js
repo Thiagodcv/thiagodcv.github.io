@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-resume",
           title: "resume",
-          description: "",
+          description: "A summary of my education and work experience if you&#39;re interested :).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/resume/";
