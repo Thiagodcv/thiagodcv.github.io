@@ -10,8 +10,24 @@ giscus_comments: false
 
 This is the project I worked on for my convex optimization course CPSC 536M taught by Prof. Michael Friedlander. The theoreticals and application of the project is found in the PDF below. The Git repository containing code for the solver and its application to MPC can be found [here](https://github.com/Thiagodcv/interior-point-optimal-control).
 
-<embed src="/assets/pdf/pdip.pdf" 
-       type="application/pdf" 
-       width="800px" 
-       height="1200px"
-       style="border: 1px solid #ccc;" />
+<style>
+.pdf-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 141.42%; /* A4 aspect ratio */
+}
+
+.pdf-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+</style>
+
+<div class="pdf-container">
+  <iframe src="/assets/pdf/pdip.pdf" frameborder="0"></iframe>
+</div>
