@@ -13,7 +13,7 @@ This is the project I worked on for my convex optimization course CPSC 536M taug
 <style>
 .pdf-container {
   position: relative;
-  width: 100%;
+  width: 90%;
   height: 0;
   padding-bottom: 129%;
 }
