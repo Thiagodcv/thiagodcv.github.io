@@ -10,5 +10,6 @@ related_publications: false
 
 This is the project I worked on for my control theory course MECH 509 taught by Prof. Ryozo Nagamune. The intuition and theory behind the project is given in the PowerPoint below. The Git repository containing code for simulations can be found [here](https://github.com/Thiagodcv/lqr-missile-guidance).
 
-
-<embed src="/assets/pdf/SAM_Presentation.pdf" type="application/pdf" width="800px" height="450px" style="border: 1px solid #ccc;" />
+<div class="pdf-container">
+  <iframe src="/assets/pdf/SAM_Presentation.pdf" frameborder="0"></iframe>
+</div>
