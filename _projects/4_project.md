@@ -15,7 +15,7 @@ I worked on this project just for fun over the summer of 2025. The project formu
   position: relative;
   width: 90%;
   height: 0;
-  padding-bottom: 120%;
+  padding-bottom: 110%;
 }
 
 .pdf-container iframe {

@@ -12,7 +12,7 @@ nav_order: 5
   position: relative;
   width: 90%;
   height: 0;
-  padding-bottom: 120%;
+  padding-bottom: 110%;
 }
 
 .pdf-container iframe {

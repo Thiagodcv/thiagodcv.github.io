@@ -15,7 +15,7 @@ This is the project I worked on for my reinforcement learning course CPSC 533V t
   position: relative;
   width: 90%;
   height: 0;
-  padding-bottom: 120%;
+  padding-bottom: 110%;
 }
 
 .pdf-container iframe {
