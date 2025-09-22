@@ -13,7 +13,7 @@ This is the project I worked on for my control theory course MECH 509 taught by 
 <style>
 .pdf-container {
   position: relative;
-  width: 90%;
+  width: 85%;
   height: 0;
   padding-bottom: 50%; /* 16:9 aspect ratio */
 }
