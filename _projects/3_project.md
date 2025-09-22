@@ -10,8 +10,24 @@ giscus_comments: false
 
 This is the project I worked on for my reinforcement learning course CPSC 533V taught by Prof. Michiel Van de Panne. The project report is in the PDF below. The Git repository containing code for the learning algorithm can be found [here](https://github.com/Thiagodcv/predictive-sampling-mpc).
 
-<embed src="/assets/pdf/mbrl.pdf" 
-       type="application/pdf" 
-       width="800px" 
-       height="1200px"
-       style="border: 1px solid #ccc;" />
+<style>
+.pdf-container {
+  position: relative;
+  width: 95%;
+  height: 0;
+  padding-bottom: 120%;
+}
+
+.pdf-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+</style>
+
+<div class="pdf-container">
+  <iframe src="/assets/pdf/mbrl.pdf" frameborder="0"></iframe>
+</div>
