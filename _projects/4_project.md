@@ -29,5 +29,5 @@ I worked on this project just for fun over the summer of 2025. The project formu
 </style>
 
 <div class="pdf-container">
-  <iframe src="/assets/pdf/proj_intercept.pdf" frameborder="0"></iframe>
+  <iframe src="https://drive.google.com/file/d/16eViIpXgvV5EqflJfElYYnZ2Z2uXvSP9/preview" frameborder="0"></iframe>
 </div>

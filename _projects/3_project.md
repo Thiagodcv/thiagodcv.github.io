@@ -29,5 +29,5 @@ This is the project I worked on for my reinforcement learning course CPSC 533V t
 </style>
 
 <div class="pdf-container">
-  <iframe src="/assets/pdf/mbrl.pdf" frameborder="0"></iframe>
+  <iframe src="https://drive.google.com/file/d/1FLgQpCiGL-fFiq45nBKj5vVV9XeodBzl/preview" frameborder="0"></iframe>
 </div>

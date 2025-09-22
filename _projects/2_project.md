@@ -29,5 +29,5 @@ This is the project I worked on for my convex optimization course CPSC 536M taug
 </style>
 
 <div class="pdf-container">
-  <iframe src="/assets/pdf/pdip.pdf" frameborder="0"></iframe>
+  <iframe src="https://drive.google.com/file/d/1t4AY1k4LvhYi2Ruk_NFPHxyhoUf0XuLy/preview" frameborder="0"></iframe>
 </div>
