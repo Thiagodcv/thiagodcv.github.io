@@ -7,8 +7,24 @@ nav: true
 nav_order: 5
 ---
 
-<embed src="/assets/pdf/resume.pdf" 
-       type="application/pdf" 
-       width="800px" 
-       height="1035px"
-       style="border: 1px solid #ccc;" />
+<style>
+.pdf-container {
+  position: relative;
+  width: 95%;
+  height: 0;
+  padding-bottom: 120%;
+}
+
+.pdf-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+</style>
+
+<div class="pdf-container">
+  <iframe src="/assets/pdf/resume.pdf" frameborder="0"></iframe>
+</div>
