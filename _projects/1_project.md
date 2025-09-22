@@ -15,7 +15,7 @@ This is the project I worked on for my control theory course MECH 509 taught by 
   position: relative;
   width: 100%;
   height: 0;
-  padding-bottom: 40%; /* 16:9 aspect ratio */
+  padding-bottom: 45%; /* 16:9 aspect ratio */
 }
 
 .pdf-container iframe {
