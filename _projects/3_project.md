@@ -13,7 +13,7 @@ This is the project I worked on for my reinforcement learning course CPSC 533V t
 <style>
 .pdf-container {
   position: relative;
-  width: 95%;
+  width: 90%;
   height: 0;
   padding-bottom: 120%;
 }
