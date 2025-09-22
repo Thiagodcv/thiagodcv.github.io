@@ -29,5 +29,5 @@ This is the project I worked on for my control theory course MECH 509 taught by 
 </style>
 
 <div class="pdf-container">
-  <iframe src="/assets/pdf/SAM_Presentation.pdf" frameborder="0"></iframe>
+  <iframe src="https://drive.google.com/file/d/17mtxqxFNBf3xQT_LVNMS4c4VcI6aIwwL/view?usp=drive_link" frameborder="0"></iframe>
 </div>
