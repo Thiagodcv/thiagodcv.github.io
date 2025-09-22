@@ -15,7 +15,7 @@ This is the project I worked on for my convex optimization course CPSC 536M taug
   position: relative;
   width: 100%;
   height: 0;
-  padding-bottom: 110%;
+  padding-bottom: 120%;
 }
 
 .pdf-container iframe {
