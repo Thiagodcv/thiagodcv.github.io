@@ -13,7 +13,7 @@ I worked on this project just for fun over the summer of 2025. The project formu
 <style>
 .pdf-container {
   position: relative;
-  width: 90%;
+  width: 100%;
   height: 0;
   padding-bottom: 110%;
 }

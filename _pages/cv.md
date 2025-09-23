@@ -10,7 +10,7 @@ nav_order: 5
 <style>
 .pdf-container {
   position: relative;
-  width: 90%;
+  width: 100%;
   height: 0;
   padding-bottom: 110%;
 }
