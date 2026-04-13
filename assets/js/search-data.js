@@ -402,26 +402,26 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-lqr-missile-guidance",
-          title: 'LQR Missile Guidance',
-          description: "Using finite-time LQR to control a nonlinear, time-varying system in Python",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-primal-dual-interior-point-optimization",
-          title: 'Primal-Dual Interior Point Optimization',
-          description: "Implementing nonlinear model predictive control with box constraints using Julia",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-control-via-learned-dynamics",
+          section: "News",},{id: "projects-control-via-learned-dynamics",
           title: 'Control via Learned Dynamics',
           description: "Using a simple model-based reinforcement learning scheme to control a quadruped with PyTorch",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
+              window.location.href = "/projects/learned_dynamics.html";
+            },},{id: "projects-lqr-missile-guidance",
+          title: 'LQR Missile Guidance',
+          description: "Using finite-time LQR to control a nonlinear, time-varying system in Python",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/missile_guidance.html";
             },},{id: "projects-optimal-projectile-interception",
           title: 'Optimal Projectile Interception',
           description: "Using the Bellman equation to solve a multi-period resource allocation problem",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
+              window.location.href = "/projects/optimal_interception.html";
+            },},{id: "projects-primal-dual-interior-point-optimization",
+          title: 'Primal-Dual Interior Point Optimization',
+          description: "Implementing nonlinear model predictive control with box constraints using Julia",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/primal_dual.html";
             },},{
         id: 'social-email',
         title: 'email',
