@@ -23,12 +23,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
+        },{id: "nav-github",
+          title: "github",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/github.com/Thiagodcv";
+          },
         },{id: "nav-google-scholar",
           title: "google scholar",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/https:/scholar.google.ca/citations?user=WMA7_2MAAAAJ&hl=en&oi=ao";
+          },
+        },{id: "nav-linkedin",
+          title: "linkedin",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/www.linkedin.com/in/thiagodcv/";
           },
         },{id: "post-a-post-with-plotly-js",
         
